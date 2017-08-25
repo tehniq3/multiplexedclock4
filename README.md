@@ -4,3 +4,6 @@ http://nicuflorica.blogspot.ro/2017/08/ceas-cu-reglaj-manual-al-orei-alarma-si.h
 
 ![schematic](https://3.bp.blogspot.com/-cybrzrsmbMM/WZQZGX7-KYI/AAAAAAAAV0g/UbS4IaICKIIHbqqD_GZfNiE6tQJGS1OlACLcBGAs/s1600/schema_multiplexedclock4.png)
 ![real](https://1.bp.blogspot.com/-aI5YeT6PELE/WZQfJAORHxI/AAAAAAAAV2M/Dql57-8sfXoRscTxb_FXilHc7N9O_YElgCLcBGAs/s1600/P8160061.JPG)
+
+![scematic with photoresistor](https://1.bp.blogspot.com/-GFvE1bpo6x4/WZvqzp0ltKI/AAAAAAAAV4k/4IyWNg_FYIgElcfuk7aOOCgArXqJk3jGQCLcBGAs/s1600/schema_multiplexedclock5.png)
+![with photoresistor](https://4.bp.blogspot.com/-cNgTuSl3zh0/WZvth_eKmsI/AAAAAAAAV48/NCWVMZsznXcg3p3hcFkPwOaUET4QuaqCgCLcBGAs/s1600/P8220066m.JPG)
