@@ -70,13 +70,13 @@ int DISPLAY_BRIGHTNESS = 5;
 //5 dim but readable (0.31mA)
 //1 dim but readable in dark (0.28mA)
 /*
-//for common anode
+//for common catode
 #define DIGIT_ON  HIGH
 #define DIGIT_OFF  LOW
 #define SEGMENT_ON  LOW
 #define SEGMENT_OFF HIGH
 */
-// for common catode
+// for common anode
 #define DIGIT_ON  LOW
 #define DIGIT_OFF  HIGH
 #define SEGMENT_ON  HIGH
