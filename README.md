@@ -15,3 +15,4 @@ sketch: version 4_5 and 4_6.
 
 sketch: version 4_7 and 4_8.
 ![schemtic with 1N4148 diode as temperature sensor](https://1.bp.blogspot.com/-UQ2lq2GhmaM/WbZZup2MC3I/AAAAAAAAV-c/W3wQAjlhBpQFo6uIfHpykfjWLXZezVe8ACLcBGAs/s1600/schema_multiplexedclock6.png)
+![with diode](https://4.bp.blogspot.com/-6zxSqnjHnB8/WbZZSNLI2nI/AAAAAAAAV-Y/SCoSLMlOlYMbzrZsFhtka9JB9wFGceCMgCLcBGAs/s1600/P9110067.JPG)
