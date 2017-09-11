@@ -376,7 +376,8 @@ if ((activarealarma == 1) && (alarma%2 == 1) && (oprirealarma == 0))
     arataalarma = 1;
   }
 }
-
+} // end day time 
+ 
 // show alarm time
 if (arataalarma == 1)
 {
@@ -391,7 +392,7 @@ if (arataalarma == 1)
    }
   arataalarma = 0; 
 }
-} // end day time 
+
 bucla = bucla+1;
 }  // end usual menu (display hour, temperature and humidity)
 
