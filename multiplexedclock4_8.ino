@@ -123,7 +123,7 @@ int cicluri = 125; // if maxbright ~1000, cicluri = 125, if maxbright ~500 ciclu
 byte arataalarma = 0;  // if is 1 show time alarm in normal mode
 byte modificat = 0;  // if is 1 store new data 
 
-byte noapte = 500;  // limit for night light on photoresistor (LDR)
+int noapte = 500;  // limit for night light on photoresistor (LDR)
 
 void setup() {
   
@@ -260,10 +260,6 @@ DISPLAY_BRIGHTNESS = analogRead(LDR); Serial.println(DISPLAY_BRIGHTNESS);
 }
 
 if (DISPLAY_BRIGHTNESS > noapte)
-{
-  Serial.println("zi");
-}
-else
 {
 // date (day and month)
 for (byte ceasu = 0; ceasu < 2; ceasu++)
