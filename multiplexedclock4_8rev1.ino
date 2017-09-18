@@ -126,7 +126,8 @@ byte modificat = 0;  // if is 1 store new data
 
 int noapte = 500;  // limit for night light on photoresistor (LDR)
 
-byte datare = 7;  // for count time for not display data and hour
+byte datare = 7;  // for count time for not display data and year
+byte dataremin = 5;  // steps for not display data and year
 
 void setup() {
   
@@ -265,7 +266,7 @@ DISPLAY_BRIGHTNESS = analogRead(LDR); Serial.println(DISPLAY_BRIGHTNESS);
 if (analogRead(LDR) > noapte)
 {
   Serial.println("zi");
-if (datare < 3)
+if (datare > dataremin)
 {
 // date (day and month)
 for (byte ceasu = 0; ceasu < 2; ceasu++)
